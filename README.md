@@ -1,11 +1,12 @@
 <h1>CONVERSOR DE MONEDAS</h1>
 
 <p>
-- Este es el primer dasafio como desarroyador BACK END
-- El archivo con nombre Principal.java es el archivo a ejecutar para ver mi trabajo
-- En el utilizamos la API de la pagina 'https://v6.exchangerate-api.com' para hacer el cambio de la divisa con valores actualizados dia con dia.
-
-- en el podemos ver el siguiente menu de opciones.
+Este es el primer dasafio como desarroyador BACK END.
+<br>El archivo con nombre Principal.java es el archivo a ejecutar para ver mi trabajo.
+<br>En el utilizamos la API de la pagina 'https://v6.exchangerate-api.com' para hacer el cambio de la divisas.
+<br>
+<br>En el podemos ver el siguiente menu de opciones.
+<br>
 </p>
 
 <ul>
